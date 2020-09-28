@@ -1,0 +1,6 @@
+title: "random thoughts"
+email: "lnussel@suse.de"
+markdown: kramdown
+theme: jekyll-theme-minimal
+permalink: /:year/:month/:day/:title/
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]
